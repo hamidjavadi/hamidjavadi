@@ -39,7 +39,6 @@
 
 ## 🏆 GitHub Trophies
 
-<hr />
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=hamidjavadi&theme=chalk&column=6" />
 </p>
@@ -50,7 +49,6 @@
 
 ## 🔥 Streak stats
 
-<hr />
 <p align="center">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hamidjavadi&theme=highcontrast&hide_border=true"/>
 </p>
@@ -60,8 +58,6 @@
 <br />
 
 ## 📈 Github stats
-
-<hr />
 
 <table>
     <tbody>
