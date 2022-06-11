@@ -14,25 +14,25 @@
 <br />
 
 <p align="center">
-    <img width="32px" alt="css" title="css" src="images/css.svg"/>
+    <img width="32px" alt="CSS" title="CSS" src="images/css.svg"/>
     <span>&#8287;&#8287;&#8287;&#8287;&#8287;</span>
-    <img width="32px" alt="html" title="html" src="images/html.svg"/>
+    <img width="32px" alt="HTML" title="HTML" src="images/html.svg"/>
     <span>&#8287;&#8287;&#8287;&#8287;&#8287;</span>
-    <img width="32px" alt="javascript" title="javascript" src="images/javascript.svg"/>
+    <img width="32px" alt="Javascript" title="Javascript" src="images/javascript.svg"/>
     <span>&#8287;&#8287;&#8287;&#8287;&#8287;</span>
-    <img width="36px" alt="typescript" title="typescript" src="images/typescript.svg"/>
+    <img width="36px" alt="TypeScript" title="TypeScript" src="images/typescript.svg"/>
     <span>&#8287;&#8287;&#8287;&#8287;&#8287;</span>
-    <img width="36px" alt="angular" title="angular" src="images/angular.svg"/>
+    <img width="36px" alt="Angular" title="Angular" src="images/angular.svg"/>
     <span>&#8287;&#8287;&#8287;&#8287;&#8287;</span>
-    <img width="34px" alt="nodejs" title="nodejs" src="images/nodejs.svg"/>
+    <img width="34px" alt="NodeJs" title="NodeJs" src="images/nodejs.svg"/>
     <span>&#8287;&#8287;&#8287;&#8287;&#8287;</span>
-    <img width="34px" alt="graphql" title="graphql" src="images/graphql.svg"/>
+    <img width="34px" alt="GraphQL" title="GraphQL" src="images/graphql.svg"/>
     <span>&#8287;&#8287;&#8287;&#8287;&#8287;</span>
-    <img width="38px" alt="ngrx" title="ngrx" src="images/ngrx.svg"/>
+    <img width="38px" alt="NgRx" title="NgRx" src="images/ngrx.svg"/>
     <span>&#8287;&#8287;&#8287;&#8287;&#8287;</span>
-    <img width="34px" alt="rxjs" title="rxjs" src="images/rxjs.svg"/>
+    <img width="34px" alt="Rxjs" title="Rxjs" src="images/rxjs.svg"/>
     <span>&#8287;&#8287;&#8287;&#8287;&#8287;</span>
-    <img width="38px" alt="sass" title="sass" src="images/sass.svg"/>
+    <img width="38px" alt="Sass" title="Sass" src="images/sass.svg"/>
 </p>
 <br />
 <br />
