@@ -1,5 +1,3 @@
-<br />
-<br />
 <h2 align="center">
   Welcome to Hamid Javadi's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -38,7 +36,6 @@
 </p>
 <br />
 <br />
-<br />
 
 ## 🏆 GitHub Trophies
 
@@ -50,7 +47,6 @@
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <br />
 <br />
-<br />
 ## 🔥 Streak stats
 
 <hr />
@@ -59,7 +55,6 @@
 </p>
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<br />
 <br />
 <br />
 
