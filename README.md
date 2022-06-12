@@ -70,6 +70,7 @@
 
 ## <img src="./images/chart-pie.svg" width="22" /> Github stats
 
+<div align="center">
 <table>
     <tbody>
         <tr>
@@ -86,6 +87,7 @@
         </tr>
     </tbody>
 </table>
+</div>
 
 <br />
 <br />
