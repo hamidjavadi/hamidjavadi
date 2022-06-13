@@ -50,7 +50,7 @@
 ## <img src="./images/fire-fill.svg" width="24" /> Streak stats
 
 <p align="center">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hamidjavadi&theme=highcontrast&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Hamid Javadi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hamidjavadi&theme=highcontrast&hide_border=true"/>
 </p>
 
 <br />
