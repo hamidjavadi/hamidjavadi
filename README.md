@@ -65,7 +65,7 @@
 
 <p align="center">
     <a title="Get your stats!" href="https://github.com/anuraghazra/github-readme-stats">
-        <img alt="Hamid's wakatime stats" title="Hamid worked on these languages" src="https://github-readme-stats.vercel.app/api/wakatime?username=hamidjavadi&langs_count=8&layout=default&theme=react&hide_border=true&bg_color=1F222E&title_color=FA8B00&icon_color=F8D866&custom_title=Hamid's%20Wakatime%20Stats">
+        <img alt="Hamid's effort this week" title="Hamid's effort this week" src="https://github-readme-stats.vercel.app/api/wakatime?username=hamidjavadi&langs_count=8&layout=default&theme=react&hide_border=true&bg_color=1F222E&title_color=FA8B00&icon_color=F8D866&custom_title=Hamid's%20Wakatime%20Stats">
     </a>
 </p>
 
