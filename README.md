@@ -41,7 +41,7 @@
 <br />
 <br />
 -->
-
+<!--
 ## <img src="./images/trophy-fill.svg" width="18" /> GitHub Trophies
 
 <p align="center">
@@ -49,7 +49,7 @@
 </p>
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<br />
+<!--<br />-->
 <br />
 
 ## <img src="./images/fire-fill.svg" width="24" /> Streak stats
