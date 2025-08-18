@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://wakatime.com">
-    <img src="https://wakatime.com/share/@hamidjavadi/ea8847fd-39fa-4b19-86f7-7c44854c288e.png" style="background-color: #000; padding: 15px; border-radius: 5px; overflow: hidden;" />
+    <img src="https://wakatime.com/share/@hamidjavadi/ea8847fd-39fa-4b19-86f7-7c44854c288e.png" padding="5" style="background-color: #000; border-radius: 5px; overflow: hidden;" />
   </a>
   <br />
   <br />
@@ -29,8 +29,8 @@
 <div align="center">
   <table>
       <tbody>
-          <tr style="border: none;">
-              <td style="border: none;">
+          <tr style="border: #0d1117;">
+              <td style="border: #0d1117;">
                   <a title="Get your stats!" href="https://github.com/anuraghazra/github-readme-stats">
                       <img alt="Hamid javadi's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=hamidjavadi&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=FA8B00&icon_color=F8D866" height="192px"/>
                   </a>
