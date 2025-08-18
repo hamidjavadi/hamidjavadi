@@ -14,9 +14,9 @@
 ## <img src="./images/stats-chart-sharp.svg" width="22" /> Yearly Coding Activity
 
 <p align="center">
-  <figure>
-    <embed src="https://wakatime.com/share/@hamidjavadi/ffc66f90-540a-48bc-8d1b-2af9adb9643a.svg"></embed>
-  </figure>
+  <a href="https://wakatime.com">
+    <img src="https://wakatime.com/share/@hamidjavadi/ea8847fd-39fa-4b19-86f7-7c44854c288e.png" style="background-color: #000; padding: 15px; border-radius: 5px; overflow: hidden;" />
+  </a>
   <br />
   <br />
 </p>
