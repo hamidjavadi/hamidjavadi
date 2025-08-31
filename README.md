@@ -15,8 +15,7 @@
 
 <p align="center">
   <a href="https://wakatime.com">
-    <img src="https://wakatime.com/share/@hamidjavadi/ea8847fd-39fa-4b19-86f7-7c44854c288e.png" padding="5" style="background-color: #000; border-radius: 5px; overflow: hidden;" />
-  </a>
+    <img src="https://wakatime.com/share/@hamidjavadi/d26f618a-aef3-433a-ad37-c48d395145db.png" padding="5" style="background-color: #000; border-radius: 5px; overflow: hidden;" />
   <br />
   <br />
 </p>
