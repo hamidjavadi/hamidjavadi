@@ -12,9 +12,9 @@
 <!-- Waka Time -->
 ## <img src="./images/stats-chart-sharp.svg" width="22" /> Yearly Coding Activity
 
-<p align="center">    
+<p align="center">
   <a href="https://wakatime.com">
-    <img src="https://wakatime.com/share/@hamidjavadi/d1e88611-2e73-4563-a139-1522d54c1092.png" padding="5" style="background-color: #000; border-radius: 5px; overflow: hidden;" />
+    <img src="https://wakatime.com/share/@hamidjavadi/c128cf40-a8ba-4633-bceb-c491322f7b6a.png" padding="5" style="background-color: #000; border-radius: 5px; overflow: hidden;" />
   </a>
   <br />
   <br />
